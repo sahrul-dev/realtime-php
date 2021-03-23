@@ -17,7 +17,6 @@ Used Technology :
 - php
 - pusher
 - boostrap
-- jquery
+- jquery (Ajax)
 
-
-
+<h2>Create by Mohammad Sahrullah</h2>
