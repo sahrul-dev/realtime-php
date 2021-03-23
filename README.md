@@ -5,11 +5,13 @@ Web dan Aplikasi Android
 Tools App Required :
 <br>
 - laragon         (PC) 
-<br><br>
+<br>
+- Visual Studio Code (PC)
+<br>
 - Sketchware      (Android)
 
 Database used:
-<br><br>
+<br>
 - mysql
 
 
