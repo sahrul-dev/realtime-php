@@ -4,13 +4,20 @@ Web dan Aplikasi Android
 
 Tools App Required :
 <br>
-laragon         (PC) 
-<br>
-Sketchware      (Android)
+- laragon         (PC) 
+<br><br>
+- Sketchware      (Android)
 
 Database used:
-mysql
+<br><br>
+- mysql
 
+
+Used Technology :
+- php
+- pusher
+- boostrap
+- jquery
 
 
 
