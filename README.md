@@ -2,19 +2,19 @@
 
 Web dan Aplikasi Android
 
-Tools App Required :
+Aplikasi Alat yang dibutuhkan :
 <br>
 - laragon         (PC) 
 - Visual Studio Code (PC)
 - Sketchware      (Android)
 
-Database used:
+Menggunakan basis data :
 - mysql
 
-Used Technology :
+ Teknologi yang dipakai :
 - php
 - pusher
 - boostrap
 - jquery (Ajax)
 
-<h2>Create by Mohammad Sahrullah</h2>
+<h2>Dibuat oleh Mohammad Sahrullah</h2>
